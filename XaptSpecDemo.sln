@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XaptSpecDemo", "XaptSpecDemo\XaptSpecDemo.csproj", "{F1ED9614-71E3-44BA-A56D-1221FB33D45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XaptSpecDemoTests1", "XaptSpecDemoTests1\XaptSpecDemoTests1.csproj", "{4A56A9E4-D288-45E6-9B26-1981E0B778C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1ED9614-71E3-44BA-A56D-1221FB33D45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1ED9614-71E3-44BA-A56D-1221FB33D45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1ED9614-71E3-44BA-A56D-1221FB33D45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1ED9614-71E3-44BA-A56D-1221FB33D45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A56A9E4-D288-45E6-9B26-1981E0B778C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A56A9E4-D288-45E6-9B26-1981E0B778C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A56A9E4-D288-45E6-9B26-1981E0B778C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A56A9E4-D288-45E6-9B26-1981E0B778C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {416401B3-5CCA-463A-953A-6D0C4E759446}
+	EndGlobalSection
+EndGlobal
